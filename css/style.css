@@ -7,7 +7,7 @@
 }
 
 .bg-home-image {
-    background: url("photo-1598329576956-4f74d5936247.jfif");
+    background: url("../bg.jpg");
     background-position: center;
     background-size: cover;
 }
